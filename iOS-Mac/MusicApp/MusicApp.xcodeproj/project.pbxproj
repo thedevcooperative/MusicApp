@@ -16,6 +16,21 @@
 		32F22FB6290DD1B4005E8A9F /* MusicAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FB5290DD1B4005E8A9F /* MusicAppTests.swift */; };
 		32F22FC0290DD1B4005E8A9F /* MusicAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FBF290DD1B4005E8A9F /* MusicAppUITests.swift */; };
 		32F22FC2290DD1B4005E8A9F /* MusicAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FC1290DD1B4005E8A9F /* MusicAppUITestsLaunchTests.swift */; };
+		32F22FD7290DDA9D005E8A9F /* MK-PreviewAsset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FD6290DDA9D005E8A9F /* MK-PreviewAsset.swift */; };
+		32F22FD9290DDAB2005E8A9F /* MK-EditorialNotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FD8290DDAB2005E8A9F /* MK-EditorialNotes.swift */; };
+		32F22FDB290DDAC9005E8A9F /* MK-ContentRating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FDA290DDAC9005E8A9F /* MK-ContentRating.swift */; };
+		32F22FDD290DDB40005E8A9F /* MK-Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FDC290DDB40005E8A9F /* MK-Track.swift */; };
+		32F22FDF290DDB52005E8A9F /* MK-Station.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FDE290DDB52005E8A9F /* MK-Station.swift */; };
+		32F22FE1290DDB5A005E8A9F /* MK-Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FE0290DDB5A005E8A9F /* MK-Song.swift */; };
+		32F22FE3290DDB66005E8A9F /* MK-RecordLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FE2290DDB66005E8A9F /* MK-RecordLabel.swift */; };
+		32F22FE5290DDB73005E8A9F /* MK-Playlist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FE4290DDB73005E8A9F /* MK-Playlist.swift */; };
+		32F22FE7290DDB81005E8A9F /* MK-MusicVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FE6290DDB81005E8A9F /* MK-MusicVideo.swift */; };
+		32F22FE9290DDB97005E8A9F /* MK-Genre.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FE8290DDB97005E8A9F /* MK-Genre.swift */; };
+		32F22FEB290DDBA6005E8A9F /* MK-Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FEA290DDBA6005E8A9F /* MK-Artist.swift */; };
+		32F22FED290DDBAF005E8A9F /* MK-Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FEC290DDBAF005E8A9F /* MK-Album.swift */; };
+		32F22FEF290DDBF5005E8A9F /* MK-SearchRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FEE290DDBF5005E8A9F /* MK-SearchRequest.swift */; };
+		32F22FF1290DDC01005E8A9F /* MK-SearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FF0290DDC01005E8A9F /* MK-SearchResponse.swift */; };
+		32F22FF3290DDC1A005E8A9F /* MK-Searchable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32F22FF2290DDC1A005E8A9F /* MK-Searchable.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +64,21 @@
 		32F22FBB290DD1B4005E8A9F /* MusicAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusicAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		32F22FBF290DD1B4005E8A9F /* MusicAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicAppUITests.swift; sourceTree = "<group>"; };
 		32F22FC1290DD1B4005E8A9F /* MusicAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		32F22FD6290DDA9D005E8A9F /* MK-PreviewAsset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-PreviewAsset.swift"; sourceTree = "<group>"; };
+		32F22FD8290DDAB2005E8A9F /* MK-EditorialNotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-EditorialNotes.swift"; sourceTree = "<group>"; };
+		32F22FDA290DDAC9005E8A9F /* MK-ContentRating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-ContentRating.swift"; sourceTree = "<group>"; };
+		32F22FDC290DDB40005E8A9F /* MK-Track.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Track.swift"; sourceTree = "<group>"; };
+		32F22FDE290DDB52005E8A9F /* MK-Station.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Station.swift"; sourceTree = "<group>"; };
+		32F22FE0290DDB5A005E8A9F /* MK-Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Song.swift"; sourceTree = "<group>"; };
+		32F22FE2290DDB66005E8A9F /* MK-RecordLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-RecordLabel.swift"; sourceTree = "<group>"; };
+		32F22FE4290DDB73005E8A9F /* MK-Playlist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Playlist.swift"; sourceTree = "<group>"; };
+		32F22FE6290DDB81005E8A9F /* MK-MusicVideo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-MusicVideo.swift"; sourceTree = "<group>"; };
+		32F22FE8290DDB97005E8A9F /* MK-Genre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Genre.swift"; sourceTree = "<group>"; };
+		32F22FEA290DDBA6005E8A9F /* MK-Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Artist.swift"; sourceTree = "<group>"; };
+		32F22FEC290DDBAF005E8A9F /* MK-Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Album.swift"; sourceTree = "<group>"; };
+		32F22FEE290DDBF5005E8A9F /* MK-SearchRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-SearchRequest.swift"; sourceTree = "<group>"; };
+		32F22FF0290DDC01005E8A9F /* MK-SearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-SearchResponse.swift"; sourceTree = "<group>"; };
+		32F22FF2290DDC1A005E8A9F /* MK-Searchable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MK-Searchable.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +158,7 @@
 		32F22FCE290DD32C005E8A9F /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				32F22FD2290DDA00005E8A9F /* AppleMusic */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -157,6 +188,52 @@
 				32F22FA9290DD1B4005E8A9F /* LaunchScreen.storyboard */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		32F22FD2290DDA00005E8A9F /* AppleMusic */ = {
+			isa = PBXGroup;
+			children = (
+				32F22FD3290DDA52005E8A9F /* MK-MusicItems */,
+				32F22FD4290DDA63005E8A9F /* MK-MusicItemAttributes */,
+				32F22FD5290DDA74005E8A9F /* MK-CatelogSearch */,
+			);
+			path = AppleMusic;
+			sourceTree = "<group>";
+		};
+		32F22FD3290DDA52005E8A9F /* MK-MusicItems */ = {
+			isa = PBXGroup;
+			children = (
+				32F22FEC290DDBAF005E8A9F /* MK-Album.swift */,
+				32F22FEA290DDBA6005E8A9F /* MK-Artist.swift */,
+				32F22FE8290DDB97005E8A9F /* MK-Genre.swift */,
+				32F22FE6290DDB81005E8A9F /* MK-MusicVideo.swift */,
+				32F22FE4290DDB73005E8A9F /* MK-Playlist.swift */,
+				32F22FE2290DDB66005E8A9F /* MK-RecordLabel.swift */,
+				32F22FE0290DDB5A005E8A9F /* MK-Song.swift */,
+				32F22FDE290DDB52005E8A9F /* MK-Station.swift */,
+				32F22FDC290DDB40005E8A9F /* MK-Track.swift */,
+			);
+			path = "MK-MusicItems";
+			sourceTree = "<group>";
+		};
+		32F22FD4290DDA63005E8A9F /* MK-MusicItemAttributes */ = {
+			isa = PBXGroup;
+			children = (
+				32F22FDA290DDAC9005E8A9F /* MK-ContentRating.swift */,
+				32F22FD8290DDAB2005E8A9F /* MK-EditorialNotes.swift */,
+				32F22FD6290DDA9D005E8A9F /* MK-PreviewAsset.swift */,
+			);
+			path = "MK-MusicItemAttributes";
+			sourceTree = "<group>";
+		};
+		32F22FD5290DDA74005E8A9F /* MK-CatelogSearch */ = {
+			isa = PBXGroup;
+			children = (
+				32F22FEE290DDBF5005E8A9F /* MK-SearchRequest.swift */,
+				32F22FF0290DDC01005E8A9F /* MK-SearchResponse.swift */,
+				32F22FF2290DDC1A005E8A9F /* MK-Searchable.swift */,
+			);
+			path = "MK-CatelogSearch";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -290,9 +367,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32F22FED290DDBAF005E8A9F /* MK-Album.swift in Sources */,
+				32F22FF3290DDC1A005E8A9F /* MK-Searchable.swift in Sources */,
+				32F22FF1290DDC01005E8A9F /* MK-SearchResponse.swift in Sources */,
+				32F22FD9290DDAB2005E8A9F /* MK-EditorialNotes.swift in Sources */,
+				32F22FE3290DDB66005E8A9F /* MK-RecordLabel.swift in Sources */,
 				32F22FA3290DD1B3005E8A9F /* ViewController.swift in Sources */,
+				32F22FE9290DDB97005E8A9F /* MK-Genre.swift in Sources */,
+				32F22FEF290DDBF5005E8A9F /* MK-SearchRequest.swift in Sources */,
+				32F22FEB290DDBA6005E8A9F /* MK-Artist.swift in Sources */,
+				32F22FE7290DDB81005E8A9F /* MK-MusicVideo.swift in Sources */,
+				32F22FDF290DDB52005E8A9F /* MK-Station.swift in Sources */,
+				32F22FDB290DDAC9005E8A9F /* MK-ContentRating.swift in Sources */,
 				32F22F9F290DD1B3005E8A9F /* AppDelegate.swift in Sources */,
+				32F22FDD290DDB40005E8A9F /* MK-Track.swift in Sources */,
 				32F22FA1290DD1B3005E8A9F /* SceneDelegate.swift in Sources */,
+				32F22FE1290DDB5A005E8A9F /* MK-Song.swift in Sources */,
+				32F22FD7290DDA9D005E8A9F /* MK-PreviewAsset.swift in Sources */,
+				32F22FE5290DDB73005E8A9F /* MK-Playlist.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
