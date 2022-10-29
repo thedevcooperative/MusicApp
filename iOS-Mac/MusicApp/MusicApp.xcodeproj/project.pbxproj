@@ -99,13 +99,11 @@
 		32F22F9D290DD1B3005E8A9F /* MusicApp */ = {
 			isa = PBXGroup;
 			children = (
-				32F22F9E290DD1B3005E8A9F /* AppDelegate.swift */,
-				32F22FA0290DD1B3005E8A9F /* SceneDelegate.swift */,
+				32F22FD1290DD36D005E8A9F /* Views */,
+				32F22FD0290DD35F005E8A9F /* Utilities */,
+				32F22FCF290DD33A005E8A9F /* Networking */,
+				32F22FCE290DD32C005E8A9F /* Models */,
 				32F22FA2290DD1B3005E8A9F /* ViewController.swift */,
-				32F22FA4290DD1B3005E8A9F /* Main.storyboard */,
-				32F22FA7290DD1B4005E8A9F /* Assets.xcassets */,
-				32F22FA9290DD1B4005E8A9F /* LaunchScreen.storyboard */,
-				32F22FAC290DD1B4005E8A9F /* Info.plist */,
 			);
 			path = MusicApp;
 			sourceTree = "<group>";
@@ -125,6 +123,40 @@
 				32F22FC1290DD1B4005E8A9F /* MusicAppUITestsLaunchTests.swift */,
 			);
 			path = MusicAppUITests;
+			sourceTree = "<group>";
+		};
+		32F22FCE290DD32C005E8A9F /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		32F22FCF290DD33A005E8A9F /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		32F22FD0290DD35F005E8A9F /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				32F22FA7290DD1B4005E8A9F /* Assets.xcassets */,
+				32F22FAC290DD1B4005E8A9F /* Info.plist */,
+				32F22F9E290DD1B3005E8A9F /* AppDelegate.swift */,
+				32F22FA0290DD1B3005E8A9F /* SceneDelegate.swift */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		32F22FD1290DD36D005E8A9F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				32F22FA4290DD1B3005E8A9F /* Main.storyboard */,
+				32F22FA9290DD1B4005E8A9F /* LaunchScreen.storyboard */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
